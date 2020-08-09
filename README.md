@@ -1,9 +1,8 @@
 # 自定义Spring Boot Starter
 ## 第一步 创建项目名规则
-''
-Do not start your module names with spring-boot, even if you use a different Maven groupId. We may offer official support for the thing you auto-configure in the future.
+>Do not start your module names with spring-boot, even if you use a different Maven groupId. We may offer official support for the thing you auto-configure in the future.
 As a rule of thumb, you should name a combined module after the starter.
-''  
+>  
 **命名潜规则**  
 spring-boot-starter-XX是springboot官方的starter
 XX-spring-boot-starter是第三方扩展的starter
